@@ -1,17 +1,17 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Physical Activity and Grades
 
 # Introduction
 
 Throughout the the term, you will be working to build up an analysis of a specific research question, detailed below. You will complete several Putting It All Together assignments that ask you to analyze a dataset using the specific tools you have learned. For each assignment, you will report your results in a brief report. The ultimate goal of this set of assignments is a final complete research report on your specific research question. 
 
-## Research Topic: 
+## Research Topic: Physical Activity and Grades
 
-Describe research topic
+We will use the Youth Risk Behavior Surveillance System (YRBSS) data to examine the relationship between a high school student's level of physical activity and their grades in school. We will also examine whether this relationship varies by the gender of the student. Specifically, wwe will address the following research questions:
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the association between a high school student's level of physical activity and their grades in school?
+2. Does the relationship between a high school student's level of physical activity and their grades vary by the student's gender?
 
 ## Technical Details
 
